@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\20115\\Desktop\\DigitalHub\\Back-end\\DigitalHub.csproj": {}
+    "C:\\Users\\20115\\Desktop\\DigitalHub\\back-end\\DigitalHub.csproj": {}
   },
   "projects": {
-    "c:\\Users\\20115\\Desktop\\DigitalHub\\Back-end\\DigitalHub.csproj": {
+    "C:\\Users\\20115\\Desktop\\DigitalHub\\back-end\\DigitalHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\20115\\Desktop\\DigitalHub\\Back-end\\DigitalHub.csproj",
+        "projectUniqueName": "C:\\Users\\20115\\Desktop\\DigitalHub\\back-end\\DigitalHub.csproj",
         "projectName": "DigitalHub",
-        "projectPath": "c:\\Users\\20115\\Desktop\\DigitalHub\\Back-end\\DigitalHub.csproj",
+        "projectPath": "C:\\Users\\20115\\Desktop\\DigitalHub\\back-end\\DigitalHub.csproj",
         "packagesPath": "C:\\Users\\20115\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\20115\\Desktop\\DigitalHub\\Back-end\\obj\\",
+        "outputPath": "C:\\Users\\20115\\Desktop\\DigitalHub\\back-end\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20115\\AppData\\Roaming\\NuGet\\NuGet.Config",

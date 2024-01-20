@@ -18,16 +18,18 @@ function App() {
     getAllAnswers();
   }, []);
 
-  // const handleAnswer = (answer) => {
-  //   if (answer === "ms") {
-  //     answer.forEach(element => {
-  //       console.log(element)
-  //       return element +1
-  //     });
-  //   }else{
-  //    return answer
-  //   }
-  // }
+  const handleAnswer = (type, answer) => {
+
+    if (type === "match" || type === "fill") {
+      var x = JSON.parse(answer)
+
+     return x.map((y) => " Question : " + y.question + " ===> Answer " + y.answer );
+
+      // return x
+    }
+    return answer
+    // console.log(answer)
+  }
 
   return (
     <div className="App">
@@ -41,7 +43,7 @@ function App() {
           <p color='warning'>Question : {x.assessments_Questions.question}</p>
 
           <p color='green'>Answer : {
-            x.answer
+            handleAnswer(x.assessments_Questions.type, x.answer)
 
           }</p>
         </card>

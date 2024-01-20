@@ -161,3 +161,4 @@ C:\Users\20115\Desktop\DigitalHub\Back-end\bin\Debug\net7.0\Newtonsoft.Json.Bson
 C:\Users\20115\Desktop\DigitalHub\back-end\bin\Debug\net7.0\MediatR.dll
 C:\Users\20115\Desktop\DigitalHub\back-end\bin\Debug\net7.0\MediatR.Contracts.dll
 C:\Users\20115\Desktop\DigitalHub\back-end\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\20115\Desktop\DigitalHub\back-end\obj\Debug\net7.0\DigitalHub.sourcelink.json

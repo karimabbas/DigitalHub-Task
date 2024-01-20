@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b67191e4fb0380e40748138ed98b8308a2b7e1ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
